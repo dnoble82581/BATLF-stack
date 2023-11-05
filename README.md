@@ -1,4 +1,3 @@
-Laravel Logo
 About
 This skeleton project is good for anyone who is familiar with Tailwind, LiveWire or Bootstrap and Alpine. It gives you a blank slate with some power in the back end if you choose to use it. I made it as un-opinionated as I possibly could so whatever you create is completely you but the initial set up is done for you saving some time.
 
